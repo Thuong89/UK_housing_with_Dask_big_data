@@ -2,9 +2,9 @@
 
 This analysis is a groupwork, using Dask to work with big data file. Original dataset: https://www.kaggle.com/hm-land-registry/uk-housing-prices-paid contains <i>>20 million rows</i>
 
-<mark>Preview final work in file 'UK_housing_PREVIEW'</mark>
+<b>Preview final work in file "UK_housing_PREVIEW"</b>
 
-Final work <b>"UK_housing_Thuong_Pawan_Jui_Sandip.ipynb"</b>:
+<b>Final work "UK_housing_Thuong_Pawan_Jui_Sandip.ipynb"</b>:
 
 - Clean and Process data: Thuong
 - Analysis part 1: Pawan
