@@ -12,9 +12,9 @@ Final file <b>"UK_housing_Thuong_Pawan_Jui_Sandip.ipynb"</b>:
 
 Original seperate work of individual can be traced back to file that ends with individual name.
 
-Original dataset: https://www.kaggle.com/hm-land-registry/uk-housing-prices-paid contains >20 million rows
+Original dataset: https://www.kaggle.com/hm-land-registry/uk-housing-prices-paid contains <i>>20 million rows</i>
 
 Notice for loading dataset:
 1. download dataset to your computer.
-2. In the first part of load and processing data -->Extract data from year 2012 up: uncomment three code cells to load data, up to this point you have the extract dataset 'data2012up.csv' contains 4.8million rowss. After that, comment those three code cells.
+2. In the first part of load and processing data -->Extract data from year 2012 up: uncomment three code cells to load data, up to this point you have the extract dataset 'data2012up.csv' contains <i>4.8million rows</i>. After that, comment those three code cells.
 3. Notice: Fix the path if necessary, so your computer can locate to pick the right file. Adjust number of clients and workers in dask.distributed code cell depending on your computer configuration.
