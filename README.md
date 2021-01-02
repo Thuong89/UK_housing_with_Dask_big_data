@@ -2,13 +2,14 @@
 
 This analysis is a groupwork, using Dask to work with big data file.
 
-Final file "UK_housing_Thuong_Pawan_Jui_Sandip.ipynb":
+Final file <b>"UK_housing_Thuong_Pawan_Jui_Sandip.ipynb"</b>:
 
 - Clean and Process data: Thuong
 - Analysis part 1: Pawan
 - Analysis part 2: Jui & Sandip
 - Analysis part 3: Thuong
 - Analysis part 4: Thuong
+
 Original seperate work of individual can be traced back to file that ends with individual name.
 
 Original dataset: https://www.kaggle.com/hm-land-registry/uk-housing-prices-paid contains >20 million rows
